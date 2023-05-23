@@ -1,0 +1,15 @@
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\bin\Debug\net7.0\DadosBancarios.exe
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\bin\Debug\net7.0\DadosBancarios.deps.json
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\bin\Debug\net7.0\DadosBancarios.runtimeconfig.json
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\bin\Debug\net7.0\DadosBancarios.dll
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\bin\Debug\net7.0\DadosBancarios.pdb
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.csproj.AssemblyReference.cache
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.AssemblyInfoInputs.cache
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.AssemblyInfo.cs
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.csproj.CoreCompileInputs.cache
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.dll
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\refint\DadosBancarios.dll
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.pdb
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\DadosBancarios.genruntimeconfig.cache
+C:\Users\joaoz\OneDrive\Documentos\curso c#\curso Nelio\DadosBancarios\obj\Debug\net7.0\ref\DadosBancarios.dll
